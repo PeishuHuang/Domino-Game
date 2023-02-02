@@ -1,0 +1,10 @@
+=======================
+Welcome to DOMINOES 175
+=======================
+Please select your play mode:
+1. Test mode
+2. Game mode
+> 1
+Name of file that should be used to populate the grid of dominoes: invalidDeck1.txt
+Cannot populate deck: invalid data in invalidDeck1.txt
+Thank you for playing. Goodbye...
